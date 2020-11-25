@@ -1,2 +1,3 @@
-# Advanced-Object-Oriented-Software-Development
-Labs and assessments for this module
+## Advanced Object-Oriented Design Principles & Patterns Project
+
+Labs and assessments for this module ...

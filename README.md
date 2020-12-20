@@ -1,4 +1,8 @@
-## Advanced Object-Oriented Design Principles & Patterns Project
-##### John Shields - G00348436
+# A Redesign of an Application
 
-Assessment I for this module ...
+#### John Shields -G00348436
+
+## Advanced Object-Oriented Design Principles & Patterns
+
+This redesign aims to improve on the original design of this application...
+

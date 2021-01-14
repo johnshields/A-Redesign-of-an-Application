@@ -6,3 +6,4 @@
 
 This redesign aims to improve on the original design of this application...
 
+The Redesign Rationale can be found [here](https://github.com/johnshields/OOP-App-Redesign/wiki).

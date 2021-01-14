@@ -1,6 +1,6 @@
 # A Redesign of an Application
 
-#### John Shields -G00348436
+#### John Shields - G00348436
 ***
 <p align="center">
 <img src="https://i.ibb.co/1ndSsC7/OOP-Assessment.jpg">
